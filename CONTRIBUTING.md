@@ -27,3 +27,4 @@ Notes and usage details for cli.
 - add a note about the defaults
 - add a note about the defaults
 - clarify the setup steps
+- fix a small wording issue
